@@ -1,0 +1,24 @@
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Generate_ExperimentDataTable.m
+        Generate_Mach_Callibration.m
+        Generate_Objects_Mach.m
+        Generate_Objects_Mach_Distributions.m
+        Generate_Objects_Quad.m
+        Generate_Objects_Quad_Distributions.m
+        ProbeData.m
+        ProbeDataDistribution.m
+        ProbeDataMach.m
+        ProbeDataQuad.m
+        Script_MachProbe_Distribution.m
+        Script_QuadProbe_Distribution.m
+        Shots/
+        TableExperimentData/
+        database_data_20916.ico
+        desktop.ini
+        mach_data.mat
+        quad_data.mat
